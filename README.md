@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🥏 I'm a Software Engineer based in Bucharest, Romania.<br><br>🤖 Current role: Android Engineer @ RealWear.<br><br>👓 Previously worked at the AR start-up Almer, leading to its successful acquistion by RealWear<br><br>👩🏻‍🎓 Computer Science Undergraduate @ University Politehnica of Bucharest 2025</p>
+<p align="left">🥏 I'm a Software Engineer based in Bucharest, Romania.<br><br>🤖 Current role: Android Engineer @ RealWear.<br><br>👓 Previously worked at the AR start-up Almer, leading to its successful acquistion by RealWear<br><br>👩🏻‍🎓 Computer Science BSc @ University Politehnica of Bucharest</p>
 
 ###
 
